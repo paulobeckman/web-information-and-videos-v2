@@ -68,7 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🚀 Como rodar este projeto
-
+ 
 Podemos considerar este projeto como sendo divido em duas partes:
 1. Back End (arquivos server.js, data.js e pasta public) 
 2. Front End (pasta views)
