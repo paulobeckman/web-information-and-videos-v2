@@ -16,7 +16,7 @@
     <img alt="Made by paulobeckman" src="https://img.shields.io/badge/made%20by-paulobeckman-%2304D361">
   </a>
 	
-  
+   
   <a href="https://github.com/paulobeckman/web-information-and-videos-v2/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/web-information-and-videos-v2">
   </a>
