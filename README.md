@@ -1,9 +1,9 @@
 <h1 align="center">
-    Web Information And Videos Version 2
+    Web Information And Videos version 2
 </h1>
 
 <h4 align="center"> 
-	🚀 Web Information And Videos v2 🚀
+	🚀 Web Information And Videos version 2 🚀
 </h4>
 
 <p align="center">
@@ -42,7 +42,7 @@ Na aba aulas o aluno tem acesso a seis cards referentes a vídeos do youtube da 
 - ao clicar em cada card, o usuário irá para uma página dedicada para aquele vídeo escolhido, com url específica. Nessa página o usuário pode assitir o vídeo.
 
 
-Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido no modulo 03 do curso **LaunchBase** oferecida pela [Rocketseat](rs).
 "O [LaunchBase](lb) é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento que permitirão construir as melhores aplicações e ter acesso às melhores oportunidades como programador." - Rocketseat
 
 
